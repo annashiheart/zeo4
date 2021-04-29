@@ -2902,9 +2902,9 @@ background-clip: text;
 -webkit-text-fill-color: transparent;}
 .text-effect-2 {
 background: #fc00c7;
-background-image: -moz-linear-gradient(-45deg, #fc00c7 0%, #1c4efd 54%, #00aded 100%);
-background-image: -webkit-linear-gradient(-45deg, #fc00c7 0%,#1c4efd 54%,#00aded 100%);
-background-image: linear-gradient(135deg, #fc00c7 0%,#1c4efd 54%,#00aded 100%);
+background-image: -moz-linear-gradient(-45deg, #96fbc4 0%, #5dfe60 54%, #28d1ab 100%);
+background-image: -webkit-linear-gradient(-45deg, #96fbc4 0%,#5dfe60 54%,#28d1ab 100%);
+background-image: linear-gradient(135deg, #96fbc4 0%,#5dfe60 54%,#28d1ab 100%);
 -webkit-background-clip: text;
 -moz-background-clip: text;
 background-clip: text;
