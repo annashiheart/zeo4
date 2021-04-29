@@ -2893,9 +2893,9 @@ html .pb140{padding-bottom: 140px;}
 .pl25{padding-left: 25px !important}
 .pr25{padding-right: 25px !important}
 .text-effect-1 {
-background-image: -moz-linear-gradient(45deg,#ff3870 0%,#ff3870 50%,#c300c3 100%);
-background-image: -webkit-linear-gradient(45deg,#ff3870 0%,#ff3870 50%,#c300c3 100%);
-background-image: linear-gradient(45deg,#ff3870 0%,#ff3870 50%,#c300c3 100%);
+background-image: -moz-linear-gradient(45deg,#96fbc4 0%, #5dfe60 54%, #28d1ab 100%);
+background-image: -webkit-linear-gradient(45deg,#96fbc4 0%, #5dfe60 54%, #28d1ab 100%);
+background-image: linear-gradient(45deg, #96fbc4 0%, #5dfe60 54%, #28d1ab 100%);
 -webkit-background-clip: text;
 -moz-background-clip: text;
 background-clip: text;
