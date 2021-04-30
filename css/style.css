@@ -16,9 +16,9 @@ File Description: Main CSS file of the template*/
 ::-webkit-scrollbar-track { background: #e8e8e8;}
 ::-webkit-scrollbar-thumb:hover {background: #fb5496;}
 ::-webkit-scrollbar-thumb {
-background-image: -webkit-linear-gradient(45deg, #ffbd84, #ff1f8e);
-background-image: -o-linear-gradient(45deg, #ffbd84, #ff1f8e);
-background-image: linear-gradient(45deg, #ffbd84, #ff1f8e);}
+background-image: -webkit-linear-gradient(45deg, #d4fc79 0%,#96e6a1 50%,#8fd3f4 100%);
+background-image: -o-linear-gradient(45deg, #d4fc79 0%,#96e6a1 50%,#8fd3f4 100%);
+background-image: linear-gradient(45deg, #d4fc79 0%,#96e6a1 50%,#8fd3f4 100%);}
 /*Default css*/
 ::-moz-selection {background: rgba(166, 175, 189, 0.3);}
 ::selection {background: rgba(166, 175, 189, 0.3);}
