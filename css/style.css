@@ -2050,9 +2050,9 @@ right: 0px;}
 p.video-lab--{    color: #739170;}
 .mr25{margin-right: 25px}
 .dg-bg2{
-background-image: -moz-linear-gradient(45deg, ##4fb576 0%, #4fb576 54%,#28a9ae 100%) !important;
-background-image: -webkit-linear-gradient(45deg, ##4fb576 0%, #4fb576 54%,#28a9ae 100%) !important;
-background-image: linear-gradient(45deg, ##4fb576 0%, #4fb576 54%,#28a9ae 100%) !important; }
+background-image: -moz-linear-gradient(45deg, #4fb576 0%, #4fb576 54%,#28a9ae 100%) !important;
+background-image: -webkit-linear-gradient(45deg,#4fb576 0%, #4fb576 50%,#28a9ae 100%) !important;
+background-image: linear-gradient(45deg, #4fb576 0%, #4fb576 50%,#28a9ae 100%) !important; }
 .hero-digital-agency-1 p{color:#bdbfca}
 .hero-digital-agency-1 .header-heading h1 {font-size: 80px; line-height: 90px; font-weight: 900; }
 .-content-sec .triangle-play {border-left: 25px solid #ffffff; }
