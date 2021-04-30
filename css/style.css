@@ -2223,8 +2223,8 @@ background-position:  center center;}
 .hero-creative-agenc1 .header-heading h1 {font-weight: 900;}
 .ovr-bg2 .ovr-base:before {
 content: "";
-background: -webkit-linear-gradient(135deg, #fc00c7 0%,#1c4efd 54%,#00aded 100%);
-background: linear-gradient(135deg, #fc00c7 0%,#1c4efd 54%,#00aded 100%);
+background: -webkit-linear-gradient(135deg, ##4fb576 0%, #44c489 54%,#28a9ae 100%);
+background: linear-gradient(135deg, #4fb576 0%, #44c489 54%,#28a9ae 100%);
 width: 100%;
 height: 100%;
 position: absolute;
